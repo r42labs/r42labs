@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @r42labs
 - 👀 I’m interested in clound computing
 - 🌱 I’m currently learning microservices architeture
-- 💞️ I’m looking to collaborate on kde
 - 📫 How to reach me r42.developer@gmail.com
 
 <!---
